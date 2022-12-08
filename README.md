@@ -1,5 +1,4 @@
-![Screenshot_11](https://user-images.githubusercontent.com/91854324/204977032-54f23cf7-614b-4696-a14d-56f9c9f663db.png)
-
+![Screenshot_1](https://user-images.githubusercontent.com/91854324/206379168-36f3f93b-95c6-40b0-ae8c-2d19ac6fc059.png)
 
 
 ## <h1>• | 💻 Mine Portfolio</h1>
