@@ -2,9 +2,9 @@
 
 
 
-## <h1>• | 🚀 Mine Portfolio Para Estudo</h1>
+## <h1>• | 💻 Mine Portfolio Para Estudo</h1>
 
-• | 🚀 Nesse Projeto foi Usado 
+• | 💎 Nesse Projeto foi Usado 
 
 • | 📁 HTML
 • | 📁 CSS
